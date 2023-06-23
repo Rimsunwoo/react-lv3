@@ -1,0 +1,21 @@
+.btn {
+  border: none;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  margin-left: 5px;
+}
+
+.btn-l {
+  width: 300px;
+  height: 50px;
+}
+
+.btn-m {
+  width: 200px;
+  height: 50px;
+}
+
+.btn-s {
+  width: 100px;
+  height: 50px;
+}
